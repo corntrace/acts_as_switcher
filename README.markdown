@@ -1,17 +1,24 @@
 Acts_As_Switcher
 ==============
 
-Introduction goes here.
+Applied for assigning **exclusive** value to one record against to other contrary records of the same AR model.
+
+NOTICE
+------
+This plugin is NOT completed yet.
 
 Usage
 -----
 If you have a Yaffle model with several records
 <pre>
-| id | value    | 
-| 1  | gen#001  | 
-| 2  | gen#123  | 
-| 3  | spec#100 | 
-| 4  | gen#xyz  | 
++-------------+
+| id | value  | 
++----+--------+
+| 1  | java   | 
+| 2  | java   | 
+| 3  | ruby   | 
+| 4  | java   | 
++-------------+
 </pre>
 
 
