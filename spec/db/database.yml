@@ -1,0 +1,3 @@
+sqlite3:
+  :adapter: sqlite3
+  :dbfile: vendor/plugins/acts_as_switcher/spec/db/acts_as_switcher.sqlite3.db
